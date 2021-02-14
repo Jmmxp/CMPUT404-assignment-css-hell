@@ -1,0 +1,27 @@
+body {
+  background-image: url("paper.jpg");
+  background-size: contain;
+  font-family: 'Zilla Slab', serif;
+}
+
+p {
+  letter-spacing: 0.05em;
+  margin: 1em;
+  font-size: 1.1em;
+}
+
+h1 {
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+/* Style all headers (which are also used for image captions) */
+h1, h2, h3, h4, h5, h6 {
+  font-style: italic;
+}
+
+img {
+  max-width: 25em;
+  height: auto;
+  border: 0.1em solid black;
+}
