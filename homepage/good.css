@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo&display=swap');
+
+body {
+  margin-left: 25%;
+  margin-right: 25%;
+  font-family: 'Exo', sans-serif;
+  background-image: url('https://www.bypeople.com/wp-content/uploads/2014/05/light-live-background-css.jpg');
+  letter-spacing: 0.04em;
+  color: #1f1f1f;
+}
+
+#profile-pic {
+  width: 256px;
+  height: 256px;
+  border-radius: 50%;
+  margin-top: 1.25em;
+  margin-right: 5em;
+  float: left;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: black;
+}
+
+#experience > li {
+  font-size: 1.1em;
+  font-weight: bold;
+  padding: 0.1em 0px;
+}
+
+#container {
+  display: inline-block;
+}
