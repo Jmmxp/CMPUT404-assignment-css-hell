@@ -18,10 +18,11 @@ h1 {
 /* Style all headers (which are also used for image captions) */
 h1, h2, h3, h4, h5, h6 {
   font-style: italic;
+  color: darkslateblue;
 }
 
 img {
-  max-width: 25em;
+  max-width: 256px;
   height: auto;
   border: 0.1em solid black;
 }
