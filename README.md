@@ -25,6 +25,8 @@ Sources
 Paper background (paper.jpg) used was from user Macman https://stackoverflow.com/u/1246600,
 https://stackoverflow.com/q/14585101
 
+Background used for the good version of the resume from https://www.bypeople.com/wp-content/uploads/2014/05/light-live-background-css.jpg.
+
 The HTML files of the stories were taken from stories found on http://www.gutenberg.org/browse/scores/top.
 
 Google Fonts used for both part 1 and part 2 https://fonts.google.com/.
