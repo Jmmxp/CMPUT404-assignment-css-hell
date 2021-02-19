@@ -14,7 +14,7 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
 Changes Made
 ====================
-In all 3 project gutenberg HTML files, I added a reference to the Zilla Slab font hosted on Google Fonts, and included a reference to my own css file (index.css).
+In all 3 project gutenberg HTML files, I added a reference to the Zilla Slab font hosted on Google Fonts, and included a reference to my own css file (gutenberg.css).
 
 Collaboration
 =============================
