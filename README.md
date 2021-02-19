@@ -27,6 +27,8 @@ https://stackoverflow.com/q/14585101
 
 The HTML files of the stories were taken from stories found on http://www.gutenberg.org/browse/scores/top.
 
+Google Fonts used for both part 1 and part 2 https://fonts.google.com/.
+
 License/Copyright
 =================
 
